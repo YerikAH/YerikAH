@@ -11,6 +11,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
+<br/>  
 
 I am a fonrt end developer, I work full time, I like new technologies and I also like design. I study and practice both, Right now I'm studying React and soon I'll be a software engineer. 😀  
   
