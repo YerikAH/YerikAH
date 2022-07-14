@@ -1,19 +1,21 @@
-## Hey 👋, I'm Harvey!  
-  
+## Hi 👋, I'm Harvey Yerik!  
 
-<a href="https://github.com/YerikAH" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/yerikhar" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Harvey Huaranga" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-<br/>  
+<img width="400" height="auto" align="right" src="./logo.svg" alt="logo">
+I'm a Front-End developer with React and software engineering student and in my spare time I'm dedicated to building amazing skills.
 
-I am a fonrt end developer, I work full time, I like new technologies and I also like design. I study and practice both, Right now I'm studying React and soon I'll be a software engineer. 😀  
-  
+## 🔗 Links
 
-<br/>  
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www..com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://.com/)
+
+## 🛠 Skills
+- HTML, Pug
+- CSS, Sass, Bootstrap
+- JavaScript, React, Webpack
+- Python, C, Java
+
+
+
+
+
