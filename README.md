@@ -12,7 +12,7 @@ I'm a Front-End developer with React and software engineering student and in my 
 ## 🛠 Skills
 - HTML, Pug
 - CSS, Sass, Bootstrap
-- JavaScript, React, Webpack
+- JavaScript, React, Webpack, Vue
 - Python, C, Java
 
 
