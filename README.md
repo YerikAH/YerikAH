@@ -6,8 +6,7 @@ I am currently studying Back-end using PHP. <br/>
 #### Technologies that I use: <br/>
 React<br/>
 PHP<br/>
-Vite<br/>
-Vue.js<br/>
+
 
 
 
