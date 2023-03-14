@@ -4,8 +4,8 @@ I like to create cool apps, with original designs, by the way I love developing 
 In my free time I spend it typing on the keyboard and reading philosophy books. <br/>
 I am currently studying Back-end using PHP. <br/>
 #### Technologies that I use: <br/>
-React<br/>
-PHP<br/>
+React and TypeScript<br/>
+Flutter<br/>
 
 
 
