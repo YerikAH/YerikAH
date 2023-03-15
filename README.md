@@ -5,8 +5,8 @@ In my free time I spend it typing on the keyboard and reading philosophy books. 
 I am currently studying Flutter <br/>
 
 #### Technologies that I use: <br/>
-React and TypeScript<br/>
-Flutter<br/>
+- React and TypeScript<br/>
+- Flutter<br/>
 
 #### Projects in work: <br/>
 1. farm_habit_app | flutter<br/>
