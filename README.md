@@ -10,8 +10,8 @@ I am currently studying Flutter <br/>
 
 #### Projects in work: <br/>
 1. farm_habit_app | flutter<br/>
-2. farm_habit_web | js <br/>
-3. `book_app | flutter` <br/>
+2. `farm_habit_web | js -> now design` <br/>
+4. whe_app | flutter <br/>
 4. whe_app | flutter <br/>
 5. secret | flutter  <br/>
 
