@@ -5,13 +5,13 @@ In my free time I spend it typing on the keyboard and reading philosophy books. 
 I am currently studying Flutter <br/>
 
 #### Technologies that I use: <br/>
-- React and TypeScript<br/>
+- React<br/>
+- TypeScript<br/>
 - Flutter<br/>
 
 #### Projects in work: <br/>
 1. farm_habit_app | flutter<br/>
 2. `farm_habit_web | js` <br/>
-5. secret | flutter  <br/>
 
 
 
