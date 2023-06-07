@@ -1,4 +1,4 @@
-### Hi everyone<br/>
+### Hi everyone 👋<br/>
 I'm Harvey, a software engineering student aspiring to be a web developer.<br/>
 I like to create cool apps, with original designs, by the way I love developing with React.<br/>
 In my free time I spend it typing on the keyboard and reading philosophy books. <br/>
