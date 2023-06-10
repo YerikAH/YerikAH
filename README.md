@@ -9,9 +9,6 @@ I am currently studying Flutter <br/>
 - TypeScript<br/>
 - Flutter<br/>
 
-#### Projects in work: <br/>
-1. farm_habit_app | flutter<br/>
-2. `farm_habit_web | js` <br/>
 
 
 
