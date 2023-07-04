@@ -1,15 +1,11 @@
-### Hi everyone 👋<br/>
-I'm Harvey, a software engineering student aspiring to be a web developer.<br/>
-I like to create cool apps, with original designs, by the way I love developing with React.<br/>
-In my free time I spend it typing on the keyboard and reading philosophy books. <br/>
-I am currently studying Flutter <br/>
+### Hi everyone <br/>
+I'm Harvey, a software engineering student.<br/>
 
-#### Technologies that I use: <br/>
-- React<br/>
-- TypeScript<br/>
-- Flutter<br/>
-
-
+#### Technologies I know: <br/>
+- **Programming languages:** HTML, CSS, JavaScript, JQuery, TypeScript, Python, Java, Dart, C, SQL, PHP, Bash
+- **Frameworks and libraries:** Django, FastAPI, React, Vue, Flutter
+- **Tools and utilities:** Vim, SASS, LESS, StoryBook, Tailwind, Bootstrap, Git, Pug, Vite, Framer Motion
+- **Test tools:** Vitest, Jest, React-Testing-Library
 
 
 
