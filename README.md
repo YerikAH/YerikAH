@@ -1,11 +1,16 @@
 ### Hi everyone 👋<br/>
-I am a software engineering and mechatronics student, as well as a language student. I am completely focused on improving my programming skills so that I can create things that help me in my day to day. Right now I'm working on an e-commerce with the MERN stack, you can see the repository by [clicking here](https://github.com/YerikAH/dental-office-page). On the other hand I am improving my programming logic with many exercises.<br/>
+I'm a software engineer and I'm currently building my own products. Kind of like a freelance hacker in the making, basically. If you're interested in collaborating on something, feel free to contact me anytime.
 
-- **Front-End Development**: React, Vue, Flutter.
-- **Back-End Development**: Django, Express, Laravel.
-- **Important Tools**: Git, Docker.
+I'm also a big fan of personal development, philosophy, and values. I have a million things to improve (too many, I'd say), but that's part of the fun. Lately, I've been learning a bit about marketing, and soon I'll be diving into data science and cybersecurity.
 
-👉 By the way, here you can see my latest projects: https://portfolio-harvey.netlify.app/
+- My stack: React • Flutter • Native React • Nest.js • Django
+
+If you want to know more about me, check this out: [bio.link/yerikah](bio.link/yerikah)
+
+Oh, I almost forgot: I'm working at Arxatec. I'll share more about it on my website; if you check my profile from time to time, you'll see it there.
+
+Thanks for stopping by!
+
 
 
 
