@@ -3,7 +3,7 @@ I'm a software engineer and I'm currently building my own products. Kind of like
 
 I'm also a big fan of personal development, philosophy, and values. I have a million things to improve (too many, I'd say), but that's part of the fun. Lately, I've been learning a bit about marketing, and soon I'll be diving into data science and cybersecurity.
 
-- My stack: React • Flutter • Native React • Nest.js • Django
+- My stack: React • Flutter • React Native • Nest.js • Django
 
 If you want to know more about me, check this out: [bio.link/yerikah](bio.link/yerikah)
 
